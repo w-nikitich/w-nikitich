@@ -19,8 +19,6 @@
   <img src="https://skillicons.dev/icons?i=html" width="40"/>
   <img src="https://skillicons.dev/icons?i=css" width="40"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="40"/>
-</div>
-<div align="left>
   <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/>
   <img src="https://skillicons.dev/icons?i=figma" width="40"/>
   <img src="https://skillicons.dev/icons?i=ps" width="40"/>
