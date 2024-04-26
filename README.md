@@ -9,7 +9,7 @@
 
 <img align="right" height="200" src="https://i.pinimg.com/564x/1a/0c/79/1a0c798ff3af0e62a79108855f1a3496.jpg"  />
 
-### 🖨️ My tech stak:
+### 🖨️ My tech stack:
 <div align="left">
  <img src="https://skillicons.dev/icons?i=react" width="40"/>
  <img src="https://skillicons.dev/icons?i=javascript" width="40"/>
