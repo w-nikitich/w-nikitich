@@ -7,7 +7,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/564x/1a/0c/79/1a0c798ff3af0e62a79108855f1a3496.jpg"  />
+<img align="right" height="350" src="https://i.pinimg.com/736x/0a/2b/0c/0a2b0c6a9e03a73b1ac98c608d385119.jpg"  />
 
 ### 🖨️ My tech stack:
 <div align="left">
