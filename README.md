@@ -7,25 +7,35 @@
 
 ###
 
-<img align="right" height="400" src="https://i.pinimg.com/736x/0a/2b/0c/0a2b0c6a9e03a73b1ac98c608d385119.jpg"  />
+<img align="right" height="400" src="https://i.pinimg.com/originals/b9/bb/e5/b9bbe5e43c1c798bf314bcb940ad21e8.gif"  />
 
 ### 🖨️ My tech stack:
 <div align="left">
+  <div>
   <img src="https://skillicons.dev/icons?i=react" width="40"/>
   <img src="https://skillicons.dev/icons?i=javascript" width="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" width="40"/>
+  </div>
+  <div>
   <img src="https://skillicons.dev/icons?i=typescript" width="40"/>
   <img src="https://skillicons.dev/icons?i=nestjs" width="40"/>
   <img src="https://skillicons.dev/icons?i=html" width="40"/>
+  </div>
+  <div>
   <img src="https://skillicons.dev/icons?i=css" width="40"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="40"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/>
+    </div>
+  <div>
   <img src="https://skillicons.dev/icons?i=figma" width="40"/>
   <img src="https://skillicons.dev/icons?i=ps" width="40"/>
   <img src="https://skillicons.dev/icons?i=sass" width="40"/>
+      </div>
+   <div>
   <img src="https://skillicons.dev/icons?i=mongodb" width="40"/>
   <img src="https://skillicons.dev/icons?i=postgres" width="40"/>
   <img src="https://skillicons.dev/icons?i=sequelize" width="40"/>
+  </div>
 </div>
 
 ### 📡 My contacts
@@ -39,5 +49,5 @@
 ### 🙆‍♀️ About me
 
 - 🌱 I’m currently improving my skills in front-end developing and learning React Native.
-- 👩‍💻 I have 1 year of experience developing pet-projects.
+- 👩‍💻 I have 1 year of experience developing personal projects.
 - ⚡ Fun fact: I love sharks.
