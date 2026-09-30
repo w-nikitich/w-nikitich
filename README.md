@@ -48,6 +48,6 @@
 
 ### 🙆‍♀️ About me
 
-- 🌱 I’m currently improving my skills in front-end developing and learning React Native.
-- 👩‍💻 I have 1,5 year of experience developing personal projects.
-- ⚡ Fun fact: I love sharks and metal.
+- I’m currently improving my skills in full-stack developing.
+- I have 1,5 year of commercial experience.
+- I have 1,5 year of experience developing personal projects.
